@@ -46,7 +46,7 @@ Leia o Guia de Contribuição para mais detalhes.
 Ficou com dúvidas ou tem sugestões? Entre em contato conosco:
 
 - **Email:** [caacomputacao@gmail.com](mailto:caacomputacao@gmail.com)  
-- **Redes Sociais:** [Instagram](https://www.instagram.com/caufpicomp/).  
+- **Redes Sociais:** [Instagram - CACOMP](https://www.instagram.com/cacompufpi/).  
 
 
 ---
